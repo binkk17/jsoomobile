@@ -1,30 +1,29 @@
+// JSON Server module
 const jsonServer = require("json-server");
-const path = require("path");
-
+const fs = require('fs')
+const path = require('path')
 const server = jsonServer.create();
 
-// Tạo router từ file JSON
-const router = jsonServer.router(path.join(__dirname, 'db', 'db.json'));
+const filePath = path.join('db/db.json')
+const data = fs.readFileSync(filePath, "utf-8");
+const db = JSON.parse(data);
+const router = jsonServer.router(db)
 
-// Cấu hình middlewares mặc định của json-server
+// const router = jsonServer.router("db/db.json");
 const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
-
-// Thêm route custom
+// Add this before server.use(router)
 server.use(
-  jsonServer.rewriter({
-    "/api/*": "/$1",
-  })
+	// Add custom route here if needed
+	jsonServer.rewriter({
+		"/api/*": "/$1",
+	})
 );
-
-// Sử dụng router và bắt đầu server
 server.use(router);
-
-// Lắng nghe tại port 3000
 server.listen(3000, () => {
-  console.log("JSON Server is running on http://localhost:3000");
+	console.log("JSON Server is running");
 });
 
-// Export server (nếu cần dùng ở module khác)
+// Export the Server API
 module.exports = server;
