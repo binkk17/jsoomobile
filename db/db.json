@@ -1,0 +1,32 @@
+{
+    "datamau":[
+        {
+            "id":"1",
+            "name":"Irina Iriser",
+            "imgs": "./imgs/Meo2.jpg",
+            "noidung":"A well-written story with engaging characters and a solid plot, though some parts feel predictable. Still, a great read!",
+            "Tim":"yes"
+        },
+        {
+            "id":"2",            
+            "name":"Irina Iriser2",
+            "imgs": "../imgs/Meo2.jpg",
+            "noidung":"A well-written story with engaging characters and a solid plot, though some parts feel predictable. Still, a great read!",
+            "Tim":"no"
+        },        
+        {
+            "id":"3",
+            "name":"Irina Iriser3",
+            "imgs": "../imgs/meologo.jpg",
+            "noidung":"A well-written story with engaging characters and a solid plot, though some parts feel predictable. Still, a great read!",
+            "Tim":"yes"
+        },        
+        {
+            "id":"4",
+            "name":"Irina Iriser4",
+            "imgs": "../imgs/meologo.jpg",
+            "noidung":"A well-written story with engaging characters and a solid plot, though some parts feel predictable. Still, a great read!",
+            "Tim":"yes"
+        }
+    ]
+}
