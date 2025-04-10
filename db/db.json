@@ -3,12 +3,14 @@
     {
       "id": 1,
       "username": "meo",
+      "name":"Jams",
       "password": "12345",
       "img": "../imgs/logo/meologo.png"
     },
     {
       "username": "m",
       "password": "1",
+      "name":"Meo2",
       "id": 2,
       "img": "../imgs/logo/meologo.png"
     }
