@@ -1,281 +1,411 @@
 {
-    "users":[
-        {
-            "id": 1, "username": "meo", "password": "12345"
-        }
-    ],
-
-
-
-
-
-    "truyendataMoi": [
-        {
-            "name": "Hunter x Hunter",
-            "img": "../imgs/manga1.png",
-            "author": "Author 1",
-            "chapter": 345,
-            "time": "1h ago",
-            "rate": 4,
-            "price": 7.5,
-            "readers":269,
-            "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-        },
-        {
-          "name":"One Piece",
-          "img":"../imgs/manga2.png",
-          "author":"Author 2",
-          "chapter":1207,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-        },
-        {
-          "name":"Tokyo Ghoul",
-          "img":"../imgs/manga3.png",
-          "author":"Author 3",
-          "chapter":220,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-    
-        },
-        {
-          "name":"Assassination Classroom",
-          "img":"../imgs/manga4.png",
-          "author":"Author 4",
-          "chapter":204,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-    
-        },
-        {
-          "name":"Yakusoku no Neverland",
-          "img":"../imgs/manga5.png",
-          "author":"Author 5",
-          "chapter":320,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-    
-        },
-        {
-          "name":"JoJo's Bizarre Adventure",
-          "img":"../imgs/manga6.png",
-          "author":"Author 6",
-          "chapter":120,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-    
-        },
-        {
-          "name":"Academy hero",
-          "img":"../imgs/manga7.png",
-          "author":"Author 7",
-          "chapter":290,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-    
-        },
-        {
-          "name":"Hellsing",
-          "img":"../imgs/manga8.png",
-          "author":"Author 8",
-          "chapter":200,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-    
-        },
-        {
-          "name":"Slam Dunk",
-          "img":"../imgs/manga9.png",
-          "author":"Author 9",
-          "chapter":20,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-        
-        },
-        {
-          "name":"One punch man",
-          "img":"../imgs/manga10.png",
-          "author":"Author 10",
-          "chapter":201,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-    
-        }
-      ],
-      "TiepTucDoc": [
-        {
-            "name": "Death Note",
-            "img": "../imgs/manga11.png",
-            "author": "Author 11",
-            "chapter": 201,
-            "time": "1h ago",
-            "rate": 4,
-            "price": 7.5,
-            "readers":269,
-            "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-        },
-        {
-          "name":"Pandora Hearts",
-          "img":"../imgs/manga12.png",
-          "author":"Author 12",
-          "chapter":205,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-        },
-        {
-          "name":"Rurouni Kenshin",
-          "img":"../imgs/manga13.png",
-          "author":"Author 13",
-          "chapter":204,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-    
-        },
-        {
-          "name":"Soul Eater",
-          "img":"../imgs/manga14.png",
-          "author":"Author 14",
-          "chapter":201,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-    
-        },
-        {
-          "name":"Atack on Titan",
-          "img":"../imgs/manga15.png",
-          "author":"Author 15",
-          "chapter":201,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-    
-        }
-      ],
-      "truyenDeXuat": [
-        {
-            "name": "Vagobond",
-            "img": "../imgs/manga16.png",
-            "author": "Author 1",
-            "chapter": 202,
-            "time": "1h ago",
-            "rate": 4,
-            "price": 7.5,
-            "readers":269,
-            "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-        },
-        {
-          "img":"../imgs/manga17.png",
-          "author":"Author 2",
-          "chapter":202,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-        },
-        {
-          "name":"Jujusu Kaisen",
-          "img":"../imgs/manga18.png",
-          "author":"Author 3",
-          "chapter":202,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-    
-        },
-        {
-          "name":"A Game of Thrones",
-          "img":"../imgs/manga19.png",
-          "author":"Author 4",
-          "chapter":202,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-    
-        },
-        {
-          "name":"Yuzucamp",
-          "img":"../imgs/manga20.png",
-          "author":"Author 5",
-          "chapter":202,
-          "time":"1h ago",
-          "rate": 4,
-          "price": 7.5,
-          "readers":269,
-          "category":["Drama","Comedy","Action","Magic","Mystery","Historical"]
-        }
-      ],
-      "binhluan":[
-        {
-            "id": "1",
-            "name": "Irina Iriser",
-            "imgs": "../imgs/Meo2.jpg",
-            "noidung": "A well-written story with engaging characters and a solid plot, though some parts feel predictable. Still, a great read!",
-            "Tim": "yes"
-        },
-        {
-            "id": "2",            
-            "name": "Irina Iriser2",
-            "imgs": "../imgs/Meo2.jpg",
-            "noidung": "A well-written story with engaging characters and a solid plot, though some parts feel predictable. Still, a great read!",
-            "Tim": "no"
-        },        
-        {
-            "id": "3",
-            "name": "Irina Iriser3",
-            "imgs": "../imgs/meologo.jpg",
-            "noidung": "A well-written story with engaging characters and a solid plot, though some parts feel predictable. Still, a great read!",
-            "Tim": "yes"
-        },        
-        {
-            "id": "4",
-            "name": "Irina Iriser4",
-            "imgs": "../imgs/meologo.jpg",
-            "noidung": "A well-written story with engaging characters and a solid plot, though some parts feel predictable. Still, a great read!",
-            "Tim": "yes"
-        }
-    ]
-
+  "users": [
+    {
+      "id": 1,
+      "username": "meo",
+      "password": "12345",
+      "img": "../imgs/meologo.png"
+    },
+    {
+      "username": "m",
+      "password": "1",
+      "id": 2,
+      "img": "../imgs/meologo.png"
+    }
+  ],
+  "truyendataMoi": [
+    {
+      "name": "Hunter x Hunter",
+      "img": "../imgs/manga1.png",
+      "author": "Author 1",
+      "chapter": 345,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "name": "One Piece",
+      "img": "../imgs/manga2.png",
+      "author": "Author 2",
+      "chapter": 1207,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "name": "Tokyo Ghoul",
+      "img": "../imgs/manga3.png",
+      "author": "Author 3",
+      "chapter": 220,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "name": "Assassination Classroom",
+      "img": "../imgs/manga4.png",
+      "author": "Author 4",
+      "chapter": 204,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "name": "Yakusoku no Neverland",
+      "img": "../imgs/manga5.png",
+      "author": "Author 5",
+      "chapter": 320,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "name": "JoJo's Bizarre Adventure",
+      "img": "../imgs/manga6.png",
+      "author": "Author 6",
+      "chapter": 120,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "name": "Academy hero",
+      "img": "../imgs/manga7.png",
+      "author": "Author 7",
+      "chapter": 290,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "name": "Hellsing",
+      "img": "../imgs/manga8.png",
+      "author": "Author 8",
+      "chapter": 200,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "name": "Slam Dunk",
+      "img": "../imgs/manga9.png",
+      "author": "Author 9",
+      "chapter": 20,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "name": "One punch man",
+      "img": "../imgs/manga10.png",
+      "author": "Author 10",
+      "chapter": 201,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    }
+  ],
+  "TiepTucDoc": [
+    {
+      "name": "Death Note",
+      "img": "../imgs/manga11.png",
+      "author": "Author 11",
+      "chapter": 201,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "name": "Pandora Hearts",
+      "img": "../imgs/manga12.png",
+      "author": "Author 12",
+      "chapter": 205,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "name": "Rurouni Kenshin",
+      "img": "../imgs/manga13.png",
+      "author": "Author 13",
+      "chapter": 204,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "name": "Soul Eater",
+      "img": "../imgs/manga14.png",
+      "author": "Author 14",
+      "chapter": 201,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "name": "Atack on Titan",
+      "img": "../imgs/manga15.png",
+      "author": "Author 15",
+      "chapter": 201,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    }
+  ],
+  "truyenDeXuat": [
+    {
+      "name": "Vagobond",
+      "img": "../imgs/manga16.png",
+      "author": "Author 1",
+      "chapter": 202,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "img": "../imgs/manga17.png",
+      "author": "Author 2",
+      "chapter": 202,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "name": "Jujusu Kaisen",
+      "img": "../imgs/manga18.png",
+      "author": "Author 3",
+      "chapter": 202,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "name": "A Game of Thrones",
+      "img": "../imgs/manga19.png",
+      "author": "Author 4",
+      "chapter": 202,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    },
+    {
+      "name": "Yuzucamp",
+      "img": "../imgs/manga20.png",
+      "author": "Author 5",
+      "chapter": 202,
+      "time": "1h ago",
+      "rate": 4,
+      "price": 7.5,
+      "readers": 269,
+      "category": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Magic",
+        "Mystery",
+        "Historical"
+      ]
+    }
+  ],
+  "binhluan": [
+    {
+      "id": "1",
+      "name": "Irina Iriser",
+      "imgs": "../imgs/Meo2.jpg",
+      "noidung": "A well-written story with engaging characters and a solid plot, though some parts feel predictable. Still, a great read!",
+      "Tim": "yes"
+    },
+    {
+      "id": "2",
+      "name": "Irina Iriser2",
+      "imgs": "../imgs/Meo2.jpg",
+      "noidung": "A well-written story with engaging characters and a solid plot, though some parts feel predictable. Still, a great read!",
+      "Tim": "no"
+    },
+    {
+      "id": "3",
+      "name": "Irina Iriser3",
+      "imgs": "../imgs/meologo.jpg",
+      "noidung": "A well-written story with engaging characters and a solid plot, though some parts feel predictable. Still, a great read!",
+      "Tim": "yes"
+    },
+    {
+      "id": "4",
+      "name": "Irina Iriser4",
+      "imgs": "../imgs/meologo.jpg",
+      "noidung": "A well-written story with engaging characters and a solid plot, though some parts feel predictable. Still, a great read!",
+      "Tim": "yes"
+    }
+  ]
 }
